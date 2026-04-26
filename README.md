@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm N S Farhana</h1>
-<h3 align="center">ECE Student | IoT & Embedded Systems Enthusiast | Python | C programming
+<h3 align="center">ECE Student | IoT & Embedded Systems Enthusiast | Python | C programming | Verilog
 
 ---
 
 ## 🚀 About Me
 - 🎓 B.Tech in Electronics & Communication Engineering (CGPA: 9.51)
 - 🔧 Passionate about **IoT, Embedded Systems, and Smart Automation**
-- 💡 Interested in **AI in Embedded Systems & VLSI Design**
+- 💡 Interested in **Embedded Systems & VLSI Design**
 - ⚡ Love building real-world hardware + software integrated projects
 - 🌱 Currently learning **Advanced IoT & Embedded AI**
 
