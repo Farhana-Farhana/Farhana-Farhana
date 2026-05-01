@@ -50,14 +50,6 @@
 
 ---
 
-## 🌍 Internship Experience
-**Embedded Systems & IoT Intern – KELTRON | June 2 , 2025 - June 13 , 2025**  
-- Worked with ESP32 & Arduino  
-- Sensor interfacing (DHT22, MQ3, Ultrasonic, PIR, Soil Moisture)  
-- Developed automation systems using relays & IoT cloud  
-
----
-
 ## 📜 Certifications
 
 <p align="center">
@@ -103,6 +95,14 @@
 - Data Science & Analytics – HP LIFE Foundation  
 - Java Complete Course – Udemy  
 - ENCAMP 4.0 – Web Development Session  
+
+---
+
+## 🌍 Internship Experience
+**Embedded Systems & IoT Intern – KELTRON | June 2 , 2025 - June 13 , 2025**  
+- Worked with ESP32 & Arduino  
+- Sensor interfacing (DHT22, MQ3, Ultrasonic, PIR, Soil Moisture)  
+- Developed automation systems using relays & IoT cloud  
 
 ---
 
