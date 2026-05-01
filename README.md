@@ -76,36 +76,8 @@
 
 <p align="center">
 
-<img src="Certificates/esim-FOSSEE.jpeg" width="300"/>
-<img src="Certificates/nptel-semiconductor.jpeg" width="300"/>
-
-</p>
-
-<p align="center">
-
-<img src="certificates/python-infosys.jpeg" width="300"/>
-<img src="certificates/python_bootcamp.jpeg" width="300"/>
-
-</p>
-
-<p align="center">
-
-<img src="certificates/stm32-workshop.jpg" width="300"/>
-<img src="certificates/Matlab.jpg" width="300"/>
-
-</p>
-
-<p align="center">
-
-<img src="certificates/java_certificate.jpg" width="300"/>
-<img src="certificates/Data Science & Analytics.jpg" width="300"/>
-
-</p>
-
-<p align="center">
-
-<img src="certificates/Encamp.jpg" width="300"/>
-<img src="certificates/MUN.jpg" width="300"/>
+<img src="Certificates/esim-FOSSEE.jpg" width="300"/>
+<img src="Certificates/nptel-semiconductor.jpg" width="300"/>
 
 </p>
 
