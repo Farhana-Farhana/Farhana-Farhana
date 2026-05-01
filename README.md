@@ -54,9 +54,9 @@
 
 <p align="center">
 
-<img src="Certificates/esim-FOSSEE.jpg" width="250"/>
-<img src="Certificates/nptel-semiconductor.jpg" width="250"/>
-<img src="Certificates/stm32-workshop.jpeg" width="250"/>
+<img src="Certificates/esim-FOSSEE.jpg" width="280"/>
+<img src="Certificates/nptel-semiconductor.jpg" width="280"/>
+<img src="Certificates/stm32-workshop.jpeg" width="280"/>
 
 </p>
 
