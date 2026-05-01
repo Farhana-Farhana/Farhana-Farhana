@@ -76,8 +76,8 @@
 
 <p align="center">
 
-<img src="certificates/esim-FOSSEE.jpeg" width="300"/>
-<img src="certificates/nptel-semiconductor.jpeg" width="300"/>
+<img src="Certificates/esim-FOSSEE.jpeg" width="300"/>
+<img src="Certificates/nptel-semiconductor.jpeg" width="300"/>
 
 </p>
 
