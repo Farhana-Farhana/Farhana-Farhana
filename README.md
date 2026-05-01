@@ -60,20 +60,6 @@
 
 ## 📜 Certifications
 
-* **eSim Research Migration Project (FOSSEE, IIT Bombay)** – Design and Simulation of CMOS Domino Logic Circuits
-* **NPTEL – Elite Certification** – Introduction to Semiconductor Devices
-* **STM32 for Digital Signal Processing** – 2-Day Hands-on Workshop, TKMCE
-* **Programming Fundamentals using Python** – Infosys Springboard
-* **Python Bootcamp (3 Days)** – Hands-on Training in Python Programming
-* **Introduction to MATLAB Workshop** – IEEE EdSoc SBC NITC
-* **HP LIFE Foundation** – Data Science & Analytics
-* **Java Training Complete Course** – Udemy
-* **Web Development Session (ENCAMP 4.0)** – IEEE SB TKMCE
-
----
-
-## 📜 Certifications
-
 <p align="center">
 
 <img src="Certificates/esim-FOSSEE.jpg" width="300"/>
@@ -81,6 +67,33 @@
 
 </p>
 
+<p align="center">
+
+<img src="Certificates/python-infosys.jpg" width="300"/>
+<img src="Certificates/python_bootcamp.jpg" width="300"/>
+
+</p>
+
+<p align="center">
+
+<img src="Certificates/stm32-workshop.jpg" width="300"/>
+<img src="Certificates/Matlab.jpg" width="300"/>
+
+</p>
+
+<p align="center">
+
+<img src="Certificates/java_certificate.jpg" width="300"/>
+<img src="Certificates/Data Science & Analytics.jpg" width="300"/>
+
+</p>
+
+<p align="center">
+
+<img src="Certificates/Encamp.jpg" width="300"/>
+<img src="Certificates/MUN.jpg" width="300"/>
+
+</p>
 ---
 
 ### 🏅 Certification Highlights
