@@ -64,6 +64,7 @@
 
 <img src="Certificates/esim-FOSSEE.jpg" width="300"/>
 <img src="Certificates/nptel-semiconductor.jpg" width="300"/>
+<img src="Certificates/stm32-workshop.jpg" width="300"/>
 
 </p>
 
@@ -71,12 +72,6 @@
 
 <img src="Certificates/python-infosys.jpg" width="300"/>
 <img src="Certificates/python_bootcamp.jpg" width="300"/>
-
-</p>
-
-<p align="center">
-
-<img src="Certificates/stm32-workshop.jpg" width="300"/>
 <img src="Certificates/Matlab.jpg" width="300"/>
 
 </p>
@@ -85,6 +80,7 @@
 
 <img src="Certificates/java_certificate.jpg" width="300"/>
 <img src="Certificates/Data Science & Analytics.jpg" width="300"/>
+<img src="Certificates/keltron_certificate.jpg" width="300"/>
 
 </p>
 
