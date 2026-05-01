@@ -76,15 +76,15 @@
 
 <p align="center">
 
-<img src="certificates/esim-FOSSEE.jpg" width="300"/>
-<img src="certificates/nptel-semiconductor.jpg" width="300"/>
+<img src="certificates/esim-FOSSEE.jpeg" width="300"/>
+<img src="certificates/nptel-semiconductor.jpeg" width="300"/>
 
 </p>
 
 <p align="center">
 
-<img src="certificates/python-infosys.jpg" width="300"/>
-<img src="certificates/python_bootcamp.jpg" width="300"/>
+<img src="certificates/python-infosys.jpeg" width="300"/>
+<img src="certificates/python_bootcamp.jpeg" width="300"/>
 
 </p>
 
