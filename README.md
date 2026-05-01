@@ -75,7 +75,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhana-Farhana&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhana-Farhana&layout=compact" />
 </p>
 
