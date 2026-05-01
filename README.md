@@ -72,15 +72,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farhana-Farhana&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhana-Farhana&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Achievements & Activities
 - Member – IEDC Documentation Team 
 - Secretariat Member – TKM Model United Nations 2025  
