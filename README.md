@@ -87,17 +87,12 @@
 <p align="center">
 
 <img src="Certificates/Encamp.jpg" width="300"/>
-<img src="Certificates/N-S-Farhana_qnayds/N-S-Farhana_qnayds_page-0001.jpg" width="300"/>
-<img src="Certificates/N-S-Farhana_qnayds/N-S-Farhana_qnayds_page-0002.jpg" width="300"/>
-<img src="Certificates/N-S-Farhana_qnayds/N-S-Farhana_qnayds_page-0003.jpg" width="300"/>
+<img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0001.jpg" width="300"/>
+<img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0002.jpg" width="300"/>
+<img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0003.jpg" width="300"/>
 
 </p>
 
-<p align="center">
-
-<img src="Certificates/keltron_certificate.jpg" width="300"/>
-
-</p>
 ---
 
 ### 🏅 Certification Highlights
