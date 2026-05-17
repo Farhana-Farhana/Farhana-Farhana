@@ -86,7 +86,7 @@
 <img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0001.jpg" width="270"/>
 <img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0002.jpg" width="270"/>
 <img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0003.jpg" width="270"/>
-
+<img src="Certificates/keltron_certificate.jpg" width="270"/>
 </p>
 
 ---
@@ -108,7 +108,11 @@
 **Embedded Systems & IoT Intern – KELTRON | June 2 , 2025 - June 20 , 2025**  
 - Worked with ESP32 & Arduino  
 - Sensor interfacing (DHT22, MQ3, Ultrasonic, PIR, Soil Moisture)  
-- Developed automation systems using relays & IoT cloud  
+- Developed automation systems using relays & IoT cloud
+
+<p align="center">
+<img src="Certificates/keltron_certificate.jpg" width="250"/>
+</p>
 
 ---
 
