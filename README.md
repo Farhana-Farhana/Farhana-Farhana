@@ -77,64 +77,64 @@
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <img src="START.jpg" width="160" height="110" /><br/>
+    <td align="center" width="400">
+      <img src="START.jpg" width="360" height="310" /><br/>
       <b>START Programme</b><br/>
       <sub>ISRO</sub>
     </td>
-    <td align="center" width="200">
-      <img src="Certificates/esim-FOSSEE.jpg" width="160" height="110" /><br/>
+    <td align="center" width="400">
+      <img src="Certificates/esim-FOSSEE.jpg" width="360" height="310" /><br/>
       <b>eSim Research Migration</b><br/>
       <sub>FOSSEE, IIT Bombay</sub>
     </td>
-    <td align="center" width="200">
-      <img src="Certificates/nptel-semiconductor.jpg" width="160" height="110" /><br/>
+    <td align="center" width="400">
+      <img src="Certificates/nptel-semiconductor.jpg" width="360" height="310" /><br/>
       <b>Semiconductor Devices</b><br/>
       <sub>NPTEL Elite</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <img src="Certificates/stm32-workshop.jpeg" width="160" height="110" /><br/>
+    <td align="center" width="400">
+      <img src="Certificates/stm32-workshop.jpeg" width="360" height="310" /><br/>
       <b>STM32 for DSP</b><br/>
       <sub>Workshop</sub>
     </td>
-    <td align="center" width="200">
-      <img src="Certificates/python-infosys.jpg" width="160" height="110" /><br/>
+    <td align="center" width="400">
+      <img src="Certificates/python-infosys.jpg" width="360" height="310" /><br/>
       <b>Python Programming</b><br/>
       <sub>Infosys Springboard</sub>
     </td>
-    <td align="center" width="200">
-      <img src="Certificates/Matlab.jpg" width="160" height="110" /><br/>
+    <td align="center" width="400">
+      <img src="Certificates/Matlab.jpg" width="360" height="310" /><br/>
       <b>MATLAB Workshop</b><br/>
       <sub>IEEE EdSoc SBC NITC</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <img src="Certificates/python_bootcamp.jpg" width="160" height="110" /><br/>
+    <td align="center" width="400">
+      <img src="Certificates/python_bootcamp.jpg" width="360" height="310" /><br/>
       <b>Python Bootcamp</b><br/>
       <sub>Udemy</sub>
     </td>
-    <td align="center" width="200">
-      <img src="Certificates/java_certificate.jpg" width="160" height="110" /><br/>
+    <td align="center" width="400">
+      <img src="Certificates/java_certificate.jpg" width="360" height="310" /><br/>
       <b>Java Complete Course</b><br/>
       <sub>Udemy</sub>
     </td>
-    <td align="center" width="200">
-      <img src="Certificates/Data Science &amp; Analytics.jpg" width="160" height="110" /><br/>
+    <td align="center" width="400">
+      <img src="Certificates/Data Science &amp; Analytics.jpg" width="360" height="310" /><br/>
       <b>Data Science &amp; Analytics</b><br/>
       <sub>HP LIFE Foundation</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <img src="Certificates/Encamp.jpg" width="160" height="110" /><br/>
+    <td align="center" width="400">
+      <img src="Certificates/Encamp.jpg" width="360" height="310" /><br/>
       <b>ENCAMP 4.0</b><br/>
       <sub>Web Development</sub>
     </td>
-    <td align="center" width="200"></td>
-    <td align="center" width="200"></td>
+    <td align="center" width="400"></td>
+    <td align="center" width="400"></td>
   </tr>
 </table>
 
