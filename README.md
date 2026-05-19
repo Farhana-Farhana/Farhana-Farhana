@@ -1,5 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=N%20S%20Farhana&fontSize=42&fontColor=fff&fontAlignY=38&desc=ECE%20Student%20%7C%20IoT%20%26%20Embedded%20Systems%20Enthusiast&descAlignY=58&descSize=16" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+N+S+Farhana!)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=2000&color=6EE7F7&center=true&vCenter=true&width=700&height=45&lines=ECE+Student+%7C+IoT+%26+Embedded+Systems;ESP32+%7C+STM32+%7C+Arduino+%7C+Python;Building+smart+hardware+%2B+software+systems+%E2%9A%A1)
+
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-s-farhana)
