@@ -73,7 +73,7 @@
     </td>
     <td align="center" width="400">
       <img src="Certificates/esim-FOSSEE.jpg" width="360" height="310" /><br/>
-      <b>eSim Research Migration</b><br/>
+      <b>eSim Research Migration Project</b><br/>
       <sub>FOSSEE, IIT Bombay</sub>
     </td>
     <td align="center" width="400">
@@ -103,7 +103,7 @@
     <td align="center" width="400">
       <img src="Certificates/python_bootcamp.jpg" width="360" height="310" /><br/>
       <b>Python Bootcamp</b><br/>
-      <sub>Udemy</sub>
+      <sub>ELDII</sub>
     </td>
     <td align="center" width="400">
       <img src="Certificates/java_certificate.jpg" width="360" height="310" /><br/>
