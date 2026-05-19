@@ -1,9 +1,12 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm N S Farhana</h1>
 
-<h1>👋 Hi, I'm N S Farhana</h1>
-<h3>🎓 ECE Student &nbsp;|&nbsp; 🔧 IoT & Embedded Systems &nbsp;|&nbsp; ⚡ ESP32 · STM32 · Arduino</h3>
-<h4>Python &nbsp;·&nbsp; C &nbsp;·&nbsp; Embedded C &nbsp;·&nbsp; Verilog</h4>
+<h3 align="center">
+ECE Student | IoT & Embedded Systems Enthusiast | Python | C | Verilog
+</h3>
 
+<p align="center">
+Building smart hardware + software solutions for real-world problems 🚀
+</p>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-s-farhana)
