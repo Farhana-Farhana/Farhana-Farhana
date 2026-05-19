@@ -1,12 +1,5 @@
-<h1 align="center">Hi 👋, I'm N S Farhana</h1>
-
-<h3 align="center">
-ECE Student | IoT & Embedded Systems Enthusiast | Python | C | Verilog
-</h3>
-
-<p align="center">
-Building smart hardware + software solutions for real-world problems 🚀
-</p>
+<h1 align="center">Hi 👋, I'm N S Farhana</h1> 
+<h3 align="center">ECE Student | IoT & Embedded Systems Enthusiast | Python | C programming | Verilog
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-s-farhana)
@@ -132,7 +125,7 @@ Building smart hardware + software solutions for real-world problems 🚀
     <tr>
     <td align="center" width="400">
       <img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0001.jpg" width="360" height="310" /><br/>
-      <b>Web Development Workshop</b><br/>
+      <b>Web Development Internship</b><br/>
       <sub>Qnayds LLP · 1 Week</sub>
     </td>
     <td align="center" width="400">
