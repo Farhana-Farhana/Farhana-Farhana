@@ -109,10 +109,6 @@
 - Sensor interfacing (DHT22, MQ3, Ultrasonic, PIR, Soil Moisture)  
 - Developed automation systems using relays & IoT cloud
 
-<p align="center">
-<img src="Certificates/keltron_certificate.jpg" width="650"/>
-</p>
-
 ---
 
 ## 🏆 Achievements & Activities
