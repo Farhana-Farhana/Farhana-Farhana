@@ -126,6 +126,23 @@
       <b>Data Science &amp; Analytics</b><br/>
       <sub>HP LIFE Foundation</sub>
     </td>
+    <tr>
+    <td align="center" width="400">
+      <img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0001.jpg" width="360" height="310" /><br/>
+      <b>Web Development Workshop</b><br/>
+      <sub>Qnayds LLP · 1 Week</sub>
+    </td>
+    <td align="center" width="400">
+      <img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0002.jpg" width="360" height="310" /><br/>
+      <b>Web Development Workshop</b><br/>
+      <sub>Qnayds LLP · 2 Days</sub>
+    </td>
+    <td align="center" width="400">
+      <img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0003.jpg" width="360" height="310" /><br/>
+      <b>Web Development Quiz</b><br/>
+      <sub>Qnayds LLP · 1 Day</sub>
+    </td>
+  </tr>
   </tr>
   <tr>
     <td align="center" width="400">
