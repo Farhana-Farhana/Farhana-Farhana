@@ -1,10 +1,10 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+N+S+Farhana!)
+<h1>👋 Hi, I'm N S Farhana</h1>
+<h3>🎓 ECE Student &nbsp;|&nbsp; 🔧 IoT & Embedded Systems &nbsp;|&nbsp; ⚡ ESP32 · STM32 · Arduino</h3>
+<h4>Python &nbsp;·&nbsp; C &nbsp;·&nbsp; Embedded C &nbsp;·&nbsp; Verilog</h4>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=2000&color=6EE7F7&center=true&vCenter=true&width=700&height=45&lines=ECE+Student+%7C+IoT+%26+Embedded+Systems;ESP32+%7C+STM32+%7C+Arduino+%7C+Python;Building+smart+hardware+%2B+software+systems+%E2%9A%A1)
-
-</div>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-s-farhana)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsfarhana.2004@gmail.com)
