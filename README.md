@@ -110,7 +110,7 @@
 - Developed automation systems using relays & IoT cloud
 
 <p align="left">
-<img src="Certificates/keltron_certificate.jpg" width="400"/>
+<img src="Certificates/keltron_certificate.jpg" width="200"/>
 </p>
 
 ---
