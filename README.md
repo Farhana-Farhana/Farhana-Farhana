@@ -173,7 +173,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Farhana-Farhana)
 
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:6EE7F7&height=100&section=footer" />
   
