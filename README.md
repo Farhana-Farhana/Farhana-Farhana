@@ -7,8 +7,7 @@
 
 - 🎓 **B.Tech – Electronics & Communication Engineering** | CGPA: **9.54**
 - 🔭 Currently working as **Summer Intern** at **FOSSEE , IIT BOMBAY**
-- 🔧 Passionate about **IoT, Embedded Systems, and Smart Automation**
-- 💡 Interested in **Embedded Systems & VLSI Design**
+- 🔧 Passionate about **IoT, Embedded Systems and VLSI Design**
 - ⚡ Love building real-world **hardware + software integrated projects**
 - 🌱 Currently learning **Advanced IoT & Embedded AI**
 - ⚡ Enjoys **video editing & exploring new technologies**
