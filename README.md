@@ -147,9 +147,9 @@
 
 ---
 
-## 🏆 Achievements & Activities
+## 🏆 Activities
 
-- 📋 Member – **IEDC Documentation Team**
+- 📋 Member – **IEDC Documentation Team** (2024 - 2025)
 - 🌐 Secretariat Member – **TKM Model United Nations 2025**
 - 🚀 Participant – **IEEE & ISRO–TKMCE Sessions** on Astrophysics and Space Industry Careers
 
