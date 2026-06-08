@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech – Electronics & Communication Engineering** | CGPA: **9.54**
+- 🎓 **B.Tech – Electronics & Communication Engineering** | CGPA: **9.60**
 - 🔭 Currently working as **Summer Intern** at **FOSSEE , IIT BOMBAY**
 - 🔧 Passionate about **IoT, Embedded Systems and VLSI Design**
 - ⚡ Love building real-world **hardware + software integrated projects**
