@@ -140,6 +140,11 @@
       <b>ENCAMP 4.0</b><br/>
       <sub>Web Development</sub>
     </td>
+    <td align="center" width="400">
+      <img src="be10x.jpg" width="360" height="310" /><br/>
+      <b>be10x</b><br/>
+      <sub>AI Tools Workshop</sub>
+    </td>
     <td align="center" width="400"></td>
     <td align="center" width="400"></td>
   </tr>
