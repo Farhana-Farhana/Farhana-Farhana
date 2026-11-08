@@ -55,30 +55,29 @@
 
 ## 🌍 Internship
 
-**Embedded Systems & IoT Intern — KELTRON** `June 2025`
+## 🌍 Internships & Fellowships
 
-- Worked with **ESP32 & Arduino** for sensor interfacing
-- Sensors used: DHT22, MQ3, Ultrasonic, PIR, Soil Moisture
-- Built automation systems using **relays & IoT cloud** platforms
+**Embedded C Intern — NIELIT Virtual Academy** `June – August 2026`
 
+- Completed a six-week online internship in Embedded C.
+- Gained exposure to embedded C programming and microcontroller-based development.
 
-### 💻 FOSSEE Summer Research Fellow — IIT Bombay <sub>May – July 2026</sub>
+**FOSSEE Summer Research Fellow — IIT Bombay** `May – July 2026`
 
 - Designed and validated analog IC models and reusable digital IP blocks using eSim and Verilog HDL.
 - Developed transistor-level subcircuit schematics using manufacturer datasheets.
 - Performed mixed-signal simulation and validation using Ngspice, Verilator and NGVeri.
 
-
-### 🔌 Embedded C Intern — NIELIT Virtual Academy <sub>June – August 2026</sub>
-
-- Completed a six-week online internship in Embedded C.
-- Gained exposure to embedded C programming and microcontroller-based development.
-
-
-### 💻 C++ Programming Intern — Thiranex <sub>May – June 2026</sub>
+**C++ Programming Intern — Thiranex** `May – June 2026`
 
 - Completed an internship focused on C++ programming.
 - Gained exposure to programming concepts and practical coding applications.
+
+**Embedded Systems & IoT Intern — KELTRON** `June 2025`
+
+- Worked with **ESP32 & Arduino** for sensor interfacing
+- Sensors used: DHT22, MQ3, Ultrasonic, PIR, Soil Moisture
+- Built automation systems using **relays & IoT cloud** platforms
 
 ---
 
