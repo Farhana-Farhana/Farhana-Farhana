@@ -61,6 +61,25 @@
 - Sensors used: DHT22, MQ3, Ultrasonic, PIR, Soil Moisture
 - Built automation systems using **relays & IoT cloud** platforms
 
+
+### 💻 FOSSEE Summer Research Fellow — IIT Bombay <sub>May – July 2026</sub>
+
+- Designed and validated analog IC models and reusable digital IP blocks using eSim and Verilog HDL.
+- Developed transistor-level subcircuit schematics using manufacturer datasheets.
+- Performed mixed-signal simulation and validation using Ngspice, Verilator and NGVeri.
+
+
+### 🔌 Embedded C Intern — NIELIT Virtual Academy <sub>June – August 2026</sub>
+
+- Completed a six-week online internship in Embedded C.
+- Gained exposure to embedded C programming and microcontroller-based development.
+
+
+### 💻 C++ Programming Intern — Thiranex <sub>May – June 2026</sub>
+
+- Completed an internship focused on C++ programming.
+- Gained exposure to programming concepts and practical coding applications.
+
 ---
 
 ## 📜 Certifications
