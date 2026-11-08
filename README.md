@@ -65,120 +65,121 @@
 
 ## 📜 Certifications
 
+<div align="center">
 <table>
   <tr>
-    <td align="center" width="400">
-      <img src="ISRO.png" width="360" height="310"/><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="ISRO.png" width="360" height="270" alt="Bharatiya Antariksh Hackathon 2026"/><br/>
       <b>Bharatiya Antariksh Hackathon 2026</b><br/>
-      <sub>ISRO & Hack2Skill</sub>
+      <sub>ISRO &amp; Hack2Skill</sub>
     </td>
-    <td align="center" width="400">
-      <img src="FOSSEE.png" width="360" height="310"/><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="FOSSEE.png" width="360" height="270" alt="FOSSEE Summer Fellowship 2026"/><br/>
       <b>FOSSEE Summer Fellowship 2026</b><br/>
       <sub>FOSSEE, IIT Bombay</sub>
     </td>
-    <td align="center" width="400">
-      <img src="antenna.png" width="360" height="310"/><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="antenna.png" width="360" height="270" alt="METIX RF Antenna Design Contest 2026"/><br/>
       <b>METIX RF Antenna Design Contest 2026</b><br/>
       <sub>METIX RF</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="400">
-      <img src="be10x.png" width="360" height="310"/><br/>
-      <b>AI Tools & ChatGPT Workshop</b><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="be10x.jpg" width="360" height="270" alt="AI Tools and ChatGPT Workshop"/><br/>
+      <b>AI Tools &amp; ChatGPT Workshop</b><br/>
       <sub>be10x · June 2026</sub>
     </td>
-    <td align="center" width="400">
-      <img src="NIELIT.png" width="360" height="310"/><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="NIELIT.png" width="360" height="270" alt="Online Internship in Embedded C"/><br/>
       <b>Online Internship in Embedded C</b><br/>
       <sub>NIELIT Virtual Academy · 6 Weeks</sub>
     </td>
-    <td align="center" width="400">
-      <img src="THIRANEXp.png" width="360" height="310"/><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="THIRANEX.png" width="360" height="270" alt="C++ Programming Internship"/><br/>
       <b>C++ Programming Internship</b><br/>
       <sub>Thiranex · May–June 2026</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="400">
-      <img src="START.jpg" width="360" height="310" /><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="START.jpg" width="360" height="270" alt="START Programme"/><br/>
       <b>START Programme</b><br/>
       <sub>ISRO</sub>
     </td>
-    <td align="center" width="400">
-      <img src="Certificates/esim-FOSSEE.jpg" width="360" height="310" /><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="Certificates/esim-FOSSEE.jpg" width="360" height="270" alt="eSim Research Migration Project"/><br/>
       <b>eSim Research Migration Project</b><br/>
       <sub>FOSSEE, IIT Bombay</sub>
     </td>
-    <td align="center" width="400">
-      <img src="Certificates/nptel-semiconductor.jpg" width="360" height="310" /><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="Certificates/nptel-semiconductor.jpg" width="360" height="270" alt="Semiconductor Devices"/><br/>
       <b>Semiconductor Devices</b><br/>
       <sub>NPTEL Elite</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="400">
-      <img src="Certificates/stm32-workshop.jpeg" width="360" height="310" /><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="Certificates/stm32-workshop.jpeg" width="360" height="270" alt="STM32 for DSP"/><br/>
       <b>STM32 for DSP</b><br/>
       <sub>Workshop</sub>
     </td>
-    <td align="center" width="400">
-      <img src="Certificates/python-infosys.jpg" width="360" height="310" /><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="Certificates/python-infosys.jpg" width="360" height="270" alt="Python Programming"/><br/>
       <b>Python Programming</b><br/>
       <sub>Infosys Springboard</sub>
     </td>
-    <td align="center" width="400">
-      <img src="Certificates/Matlab.jpg" width="360" height="310" /><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="Certificates/Matlab.jpg" width="360" height="270" alt="MATLAB Workshop"/><br/>
       <b>MATLAB Workshop</b><br/>
       <sub>IEEE EdSoc SBC NITC</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="400">
-      <img src="Certificates/python_bootcamp.jpg" width="360" height="310" /><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="Certificates/python_bootcamp.jpg" width="360" height="270" alt="Python Bootcamp"/><br/>
       <b>Python Bootcamp</b><br/>
       <sub>ELDII</sub>
     </td>
-    <td align="center" width="400">
-      <img src="Certificates/java_certificate.jpg" width="360" height="310" /><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="Certificates/java_certificate.jpg" width="360" height="270" alt="Java Complete Course"/><br/>
       <b>Java Complete Course</b><br/>
       <sub>Udemy</sub>
     </td>
-    <td align="center" width="400">
-      <img src="Certificates/Data Science &amp; Analytics.jpg" width="360" height="310" /><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="Certificates/Data%20Science%20%26%20Analytics.jpg" width="360" height="270" alt="Data Science and Analytics"/><br/>
       <b>Data Science &amp; Analytics</b><br/>
       <sub>HP LIFE Foundation</sub>
     </td>
-    <tr>
-    <td align="center" width="400">
-      <img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0001.jpg" width="360" height="310" /><br/>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="Certificates/N-S-Farhana_qnayds/N%20S%20Farhana_qnayds_page-0001.jpg" width="360" height="270" alt="Web Development Internship"/><br/>
       <b>Web Development Internship</b><br/>
       <sub>Qnayds LLP · 1 Week</sub>
     </td>
-    <td align="center" width="400">
-      <img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0002.jpg" width="360" height="310" /><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="Certificates/N-S-Farhana_qnayds/N%20S%20Farhana_qnayds_page-0002.jpg" width="360" height="270" alt="Web Development Workshop"/><br/>
       <b>Web Development Workshop</b><br/>
       <sub>Qnayds LLP · 2 Days</sub>
     </td>
-    <td align="center" width="400">
-      <img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0003.jpg" width="360" height="310" /><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="Certificates/N-S-Farhana_qnayds/N%20S%20Farhana_qnayds_page-0003.jpg" width="360" height="270" alt="Web Development Quiz"/><br/>
       <b>Web Development Quiz</b><br/>
       <sub>Qnayds LLP · 1 Day</sub>
     </td>
   </tr>
-  </tr>
   <tr>
-    <td align="center" width="400">
-      <img src="Certificates/Encamp.jpg" width="360" height="310" /><br/>
+    <td align="center" valign="top" width="33%">
+      <img src="Certificates/Encamp.jpg" width="360" height="270" alt="ENCAMP 4.0"/><br/>
       <b>ENCAMP 4.0</b><br/>
       <sub>Web Development</sub>
     </td>
-    <td align="center" width="400"></td>
-    <td align="center" width="400"></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
   </tr>
 </table>
-
+</div>
 ---
 
 ## 🏆 Activities
