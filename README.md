@@ -53,8 +53,6 @@
 
 ---
 
-## 🌍 Internship
-
 ## 🌍 Internships & Fellowships
 
 **Embedded C Intern — NIELIT Virtual Academy** `June – August 2026`
