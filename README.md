@@ -68,34 +68,34 @@
 <table>
   <tr>
     <td align="center" width="400">
-      <img src="Certificates/bharatiya-antariksh-hackathon.jpg" width="360" height="310"/><br/>
+      <img src="ISRO.png" width="360" height="310"/><br/>
       <b>Bharatiya Antariksh Hackathon 2026</b><br/>
       <sub>ISRO & Hack2Skill</sub>
     </td>
     <td align="center" width="400">
-      <img src="Certificates/fossee-summer-fellowship.jpg" width="360" height="310"/><br/>
+      <img src="FOSSEE.png" width="360" height="310"/><br/>
       <b>FOSSEE Summer Fellowship 2026</b><br/>
       <sub>FOSSEE, IIT Bombay</sub>
     </td>
     <td align="center" width="400">
-      <img src="Certificates/metix-rf-antenna-design.jpg" width="360" height="310"/><br/>
+      <img src="antenna.png" width="360" height="310"/><br/>
       <b>METIX RF Antenna Design Contest 2026</b><br/>
       <sub>METIX RF</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="400">
-      <img src="Certificates/be10x-ai-workshop.png" width="360" height="310"/><br/>
+      <img src="be10x.png" width="360" height="310"/><br/>
       <b>AI Tools & ChatGPT Workshop</b><br/>
       <sub>be10x · June 2026</sub>
     </td>
     <td align="center" width="400">
-      <img src="Certificates/nielit-embedded-c.png" width="360" height="310"/><br/>
+      <img src="NIELIT.png" width="360" height="310"/><br/>
       <b>Online Internship in Embedded C</b><br/>
       <sub>NIELIT Virtual Academy · 6 Weeks</sub>
     </td>
     <td align="center" width="400">
-      <img src="Certificates/thiranex-cpp-internship.png" width="360" height="310"/><br/>
+      <img src="THIRANEXp.png" width="360" height="310"/><br/>
       <b>C++ Programming Internship</b><br/>
       <sub>Thiranex · May–June 2026</sub>
     </td>
